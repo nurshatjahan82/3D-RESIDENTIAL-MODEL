@@ -1,4 +1,4 @@
-3D Residential Area Model
+3D Residential Model
 
 Overview
 
